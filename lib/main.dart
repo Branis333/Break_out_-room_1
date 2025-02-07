@@ -133,7 +133,7 @@ class ProductDetailScreen extends StatelessWidget {
               SizedBox(height: 10),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: List.generate(3, (index) => Icon(Icons.star, color: Colors.red, size: 28)),
+                children: List.generate(3, (index) => Icon(Icons.star, color: Colors.red, size: 30)),
               ),
             ],
           ),
