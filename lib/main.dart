@@ -26,7 +26,7 @@ class Product {
 
 class ProductListScreen extends StatelessWidget {
   final List<Product> products = [
-    Product(name: 'Pixel 1', description: 'Pixel is the most featureful phone ever', price: 800, color: Colors.blue),
+    Product(name: 'Pixel 2', description: 'Pixel is the most featureful phone ever', price: 800, color: Colors.blue),
     Product(name: 'Laptop', description: 'Laptop is most productive development tool', price: 2000, color: Colors.green),
     Product(name: 'Tablet', description: 'Tablet is the most useful device ever for meeting', price: 1500, color: Colors.orange),
     Product(name: 'Pen Drive', description: 'iPhone is the stylist phone ever', price: 100, color: Colors.red),
